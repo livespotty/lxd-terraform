@@ -8,21 +8,25 @@ Required provider
 
 If you are initialized LXD on your server, initialize lxd using
 
-``` lxd init
+``` 
+lxd init
 
 ```
 Accept default values.
 
 The following terraform example will create lxc container
 
-``` terraform init
+``` 
+terraform init
 
 ```
 
-``` terraform apply
+``` 
+terraform apply
 
 ```
 
 finally,
 
-``` lxc list
+``` 
+lxc list
